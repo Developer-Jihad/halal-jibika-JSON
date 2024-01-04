@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Google Internship Program",
+      "logo": "https://html.creativegigstf.com/khuj/khuj/images/slider/slider-1.png",
+      "companyName": "Google",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from Google"
+    },
+    {
+      "id": 2,
+      "title": "Amazon Junior Development Program",
+      "logo": "https://html.creativegigstf.com/khuj/khuj/images/slider/slider-4.png",
+      "companyName": "Amazon",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Facebook"
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://html.creativegigstf.com/khuj/khuj/images/slider/slider-5.png",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft"
+    }
+  ]
+}
